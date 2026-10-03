@@ -7,7 +7,7 @@
 | **Difficulty** | 🟡 Medium |
 | **Submission Status** | ✅ Solved / Accepted |
 | **Author** | [@Javith](https://github.com/Javith) |
-| **Date** | 2026-10-03T15:06:22.716Z |
+| **Date** | 2026-10-03T15:07:33.403Z |
 
 ## Problem Description
 
@@ -29,4 +29,4 @@ First 100 units * 1.50 = 150.00. Next 50 units * 2.50 = 125.00. Surcharge = 35.0
 
 ---
 
-*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/5c3d8fb2218095f6a4e2c650e20e298ee8776e7f)*
+*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/ac7c919bc723c3434b341c2faf231dcf79bf32f6)*
