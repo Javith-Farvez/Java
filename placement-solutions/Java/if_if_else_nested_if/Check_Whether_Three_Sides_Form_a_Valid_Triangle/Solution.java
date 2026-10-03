@@ -6,7 +6,7 @@
  * Difficulty: EASY
  * Status: Solved / Accepted
  * Author: Javith
- * Pushed at: 2026-10-03T15:11:16.339Z
+ * Pushed at: 2026-10-03T15:12:04.320Z
  * ============================================================================
  *
  * Description:
