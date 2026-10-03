@@ -7,7 +7,7 @@
 | **Difficulty** | 🟢 Easy |
 | **Submission Status** | ✅ Solved / Accepted |
 | **Author** | [@Javith](https://github.com/Javith) |
-| **Date** | 2026-10-03T15:11:16.339Z |
+| **Date** | 2026-10-03T15:12:04.320Z |
 
 ## Problem Description
 
@@ -24,4 +24,4 @@ Given three positive integers a, b, and c representing the side lengths of a tri
 
 ---
 
-*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/b2af2e88d9df0fa86aeb1135e54607635750d0c0)*
+*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/6ac8d3837b26ccd6e91a73052666490b2a47ea2b)*
