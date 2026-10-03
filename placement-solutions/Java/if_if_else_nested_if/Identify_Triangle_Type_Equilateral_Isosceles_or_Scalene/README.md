@@ -7,7 +7,7 @@
 | **Difficulty** | 🟢 Easy |
 | **Submission Status** | ✅ Solved / Accepted |
 | **Author** | [@Javith](https://github.com/Javith) |
-| **Date** | 2026-10-03T14:32:06.020Z |
+| **Date** | 2026-10-03T15:08:59.304Z |
 
 ## Problem Description
 
@@ -27,4 +27,4 @@ All three sides are equal to 5.
 
 ---
 
-*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/640d04545ea930562a383852bb72bf565c4fcdb4)*
+*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/Javith-Farvez/Java/commit/ca71341f48e6f969994788843225d62888529229)*
